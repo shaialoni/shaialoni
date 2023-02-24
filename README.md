@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+### Socials
+https://github.com/shaialoni/github_readme_stats
+https://www.codewars.com/users/shaialoni
 <!--
 **shaialoni/shaialoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
