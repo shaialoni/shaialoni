@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hello!
+
+I am a career changer with 15 years of experience in managing complex operations and running my own business. Seeking a new career as a software developer, I am proficient in JavaScript, Python, React, RESTful APIs and more, with a talent for quickly learning new technologies. I am a software engineer with strong problem-solving skills, excellent work ethics, and dedication to my craft. Recently completing a full stack engineering program, I am confident in my ability to adapt to any project and believe that my skills and experience make me an asset to any organization.
+
+## Languages / Skills
+-Python
+-JavaScript
+-React
+-MongoDB
+-Express.JS
+-Node.JS
 
 ## Socials
 
